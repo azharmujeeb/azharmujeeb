@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azharmujeeb
-- 👀 I’m interested in electronics
-- 🌱 I’m currently learning Software Engineering, in Plymouth University
+- 👀 I’m interested in Programming, designing & Photography.
+- 🌱 I’m currently learning Software Engineering, in University of Plymouth.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - azhar1932391@gmail.com
 
